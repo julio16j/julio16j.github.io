@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julio16j.github.io/Simular-Amortizacao/sitemap.xml
